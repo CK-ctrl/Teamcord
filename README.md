@@ -9,7 +9,7 @@ Realtime chat app with rooms made using Node.js, Express, and socket.io
 2. This repository does not contain `node_modules` folder, so to get that run `npm install` in your terminal.
 3. Finally run `node server` to start the server.
     * use nodemon to avoid server restarts if you plan to edit the source code
-4. Go to https://127.0.0.1:3000 to checkout the chat application.
+4. Go to http://127.0.0.1:3000 to checkout the chat application.
 
 ## How it works
 
